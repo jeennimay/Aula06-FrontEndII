@@ -2,7 +2,7 @@
 
 Projeto da Mesa de Trabalho da aula de Front End II.
 
-GitPage: https://github.com/jennimay/Aula06-FrontEndII.git
+GitPage: https://jeennimay.github.io/Aula06-FrontEndII/
 
 Alunos:
 
